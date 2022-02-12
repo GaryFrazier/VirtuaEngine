@@ -1,2 +1,2 @@
 # VirtuaEngine
-Graphics Engine in C
+Graphics Engine in C++
